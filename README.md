@@ -1,0 +1,1 @@
+# irosceto-CryptoTrends-Analyzer
